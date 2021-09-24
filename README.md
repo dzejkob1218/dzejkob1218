@@ -5,7 +5,7 @@
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzejkob1218&langs_count=10&layout=compact&theme=github_dark&hide=blade,scss,shell,javascript)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzejkob1218&langs_count=6&title_color=111111&layout=compact&bg_color=30,003980,020024&theme=github_dark&hide=blade,scss,shell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzejkob1218&langs_count=6&title_color=ffffff&layout=compact&bg_color=30,003980,020024&theme=github_dark&hide=blade,scss,shell)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
