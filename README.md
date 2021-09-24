@@ -15,3 +15,6 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzejkob1218&layout=compact&theme=github_dark" />
 </a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzejkob1218&layout=compact&theme=github_dark" />
+</a>
