@@ -4,4 +4,4 @@
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzejkob1218&theme=github_dark&&exclude_repo=budget-buddy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzejkob1218&theme=github_dark&hide=javascript)
