@@ -5,8 +5,7 @@
 ##
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="left_cat.gif" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzejkob1218&langs_count=6&title_color=ffffff&text_color=ffffff&layout=compact&theme=github_dark&hide=blade,scss,shell" />
+  <img alignt="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzejkob1218&langs_count=6&title_color=ffffff&text_color=ffffff&layout=compact&theme=github_dark&hide=blade,scss,shell" />
    <img src="right_cat.gif" />
-</a>
+
