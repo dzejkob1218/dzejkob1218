@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center" ><i>Hello world, I'm dzejkob1218. Welcome to my <i> <img src="title.gif" align="center"/> </h1> 
+<h1 align="center" ><i>Hi world, I'm dzejkob1218. Welcome to my <i> <img src="title.gif" align="center"/> </h1> 
   </div>
   
 <div align="center">
