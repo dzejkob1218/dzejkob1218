@@ -1,5 +1,5 @@
-<div style="margin-right: 15px; margin-left:auto;">
-<h1><i>I'm dzejkob1218, welcome to my <i> <img src="title.gif" align="center"/> </h1> 
+<div align="center">
+<h1 align="center" ><i>I'm dzejkob1218, welcome to my <i> <img src="title.gif" align="center"/> </h1> 
   </div>
   
 <div>
@@ -8,4 +8,3 @@
    <img src="right_cat.gif" width="200" height="200"/>
 </div>
   
-  ![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.dzejkon1218)
