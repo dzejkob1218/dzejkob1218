@@ -8,7 +8,7 @@
    <img src="right_cat.gif" width="200" height="200"/>
 </div>
   
-   <i class="devicon-python-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   
   
 
