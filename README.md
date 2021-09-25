@@ -3,7 +3,7 @@
 ![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.dzejkon1218)
 
 
-<h1><i>I'm dzejkob1218, welcome to my<i></h1> <img src="title.gif" />
+<h1><i>I'm dzejkob1218, welcome to my <i> <img src="title.gif" /> </h1> 
   
 <div>
   <img src="left_cat.gif" width="200"/>
