@@ -8,7 +8,8 @@
    <img src="right_cat.gif" width="200" height="200"/>
 </div>
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  
+<p align="center">
+<img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  </p>  
   
 
