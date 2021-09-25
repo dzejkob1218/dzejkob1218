@@ -1,4 +1,6 @@
-<h1><i>I'm dzejkob1218, welcome to my <i> <img src="title.gif" align="center"/> </h1> 
+<div>
+<h1 style="margin-right: auto; margin-left:auto;"><i>I'm dzejkob1218, welcome to my <i> <img src="title.gif" align="center"/> </h1> 
+  </div>
   
 <div>
   <img src="left_cat.gif" width="200" height="200"/>
