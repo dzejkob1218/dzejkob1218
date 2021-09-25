@@ -4,7 +4,7 @@
 
 ##
 
-<h1>I'm dzejkob1218, welcome on my </h1>
+<h1><i>I'm dzejkob1218, welcome on my<i></h1>
 
 <div >
   <img src="left_cat.gif"/>
