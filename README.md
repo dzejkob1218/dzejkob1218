@@ -1,5 +1,5 @@
 <div style="margin-right: 15px; margin-left:auto;">
-<h1"><i>I'm dzejkob1218, welcome to my <i> <img src="title.gif" align="center"/> </h1> 
+<h1><i>I'm dzejkob1218, welcome to my <i> <img src="title.gif" align="center"/> </h1> 
   </div>
   
 <div>
