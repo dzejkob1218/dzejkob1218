@@ -1,7 +1,7 @@
-<!--<div align="center">
-<h1 align="center" ><i>Hi, I'm dzejkob1218. Welcome to my <i> <img src="title.gif" align="center"/> </h1> 
+<div align="center">
+<h1 align="center" ><i>Hi, I'm dzejkob1218. Welcome to my <i> <img src="title2.gif" align="center"/> </h1> 
   </div>
-  -->
+
 <div align="center">
    <!--<img align="center" src="left_cat.gif" width="170" height="170"/>-->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzejkob1218&langs_count=6&title_color=ffffff&text_color=ffffff&layout=compact&theme=github_dark&hide=blade,scss,shell" />
