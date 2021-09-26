@@ -8,9 +8,7 @@
    <img align="center" src="right_cat.gif" width="170" height="170"/>
 </div>
   
-  ##
-  
-<p align="center" style="padding: 3px">
+<p align="center">
   <img height="70" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img height="50"  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
