@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi, I'm dzejkob1218. Welcome to my<img height="80" src="title2.png" align="center"/> </h1> 
+<h1><i aling="bottom">Hi, I'm dzejkob1218. Welcome to my </i> <img height="80" src="title2.png" align="center"/> </h1> 
   </div>
 
 <div align="center">
