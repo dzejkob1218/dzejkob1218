@@ -32,4 +32,6 @@
   <img height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
 </p>  
   
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzejkob1218&repo=spotify-buddy)](https://github.com/dzejkob1218/spotify-buddy)
 
