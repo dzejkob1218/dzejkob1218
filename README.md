@@ -33,5 +33,5 @@
 </p>  
   
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzejkob1218&repo=spotify-buddy)](https://github.com/dzejkob1218/spotify-buddy)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzejkob1218&repo=spotify-buddy&theme=github_dark)](https://github.com/dzejkob1218/spotify-buddy)
 
