@@ -4,7 +4,7 @@
 
 <div align="center">
    <img align="center" src="left_cat.gif" width="170" height="170"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzejkob1218&langs_count=6&exclude_repo=ok-zombie&title_color=ffffff&text_color=ffffff&layout=compact&theme=github_dark&hide=blade,scss,shell" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzejkob1218&langs_count=6&exclude_repo=ok-zombie&title_color=ffffff&text_color=ffffff&layout=compact&theme=chartreuse-dark&hide=blade,scss,shell" />
   <img align="center" src="right_cat.gif" width="170" height="170"/>
 </div>
   
@@ -33,5 +33,6 @@
 </p>  
   
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzejkob1218&repo=spotify-buddy&theme=github_dark)](https://github.com/dzejkob1218/spotify-buddy)
-
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzejkob1218&repo=spotify-buddy&theme=chartreuse-dark)](https://github.com/dzejkob1218/spotify-buddy)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dzejkob1218&repo=budget-buddy&theme=chartreuse-dark)](https://github.com/dzejkob1218/spotify-buddy)
